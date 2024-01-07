@@ -1,0 +1,35 @@
+{
+  "name": "monada-shipping-companies-logos",
+  "version": "0.0.1",
+  "description": "React element to generate and use brand logos for shipping companies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "storybook": "storybook dev -p 6006",
+    "build-storybook": "storybook build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Monada-ai/monada-shipping-companies-logos.git"
+  },
+  "author": "Yoav Amit",
+  "license": "Apache",
+  "bugs": {
+    "url": "https://github.com/Monada-ai/monada-shipping-companies-logos/issues"
+  },
+  "homepage": "https://github.com/Monada-ai/monada-shipping-companies-logos#readme",
+  "devDependencies": {
+    "@storybook/addon-essentials": "^7.6.7",
+    "@storybook/addon-interactions": "^7.6.7",
+    "@storybook/addon-links": "^7.6.7",
+    "@storybook/addon-onboarding": "^1.0.10",
+    "@storybook/blocks": "^7.6.7",
+    "@storybook/react": "^7.6.7",
+    "@storybook/react-webpack5": "^7.6.7",
+    "@storybook/test": "^7.6.7",
+    "prop-types": "^15.8.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "storybook": "^7.6.7"
+  }
+}
