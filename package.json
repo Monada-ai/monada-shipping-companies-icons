@@ -1,8 +1,8 @@
 {
   "name": "@monada-ai/monada-shipping-companies-logos",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "React element to generate and use brand logos for shipping companies",
-  "main": "index.js",
+  "main": "dist/index.js",
   "publishConfig": {
     "access": "public"
   },
